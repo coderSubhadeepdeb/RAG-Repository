@@ -7,4 +7,5 @@ langchain-community
 chromadb
 sentence-transformers
 pypdf
+pymupdf
 python-dotenv
