@@ -1,0 +1,5 @@
+{"employee_id": 1, "name": "John", "department": "Engineering", "skills": ["Python", "Docker", "Kubernetes"], "project": "RAG Chatbot", "status": "Active"}
+{"employee_id": 2, "name": "Emma", "department": "Engineering", "skills": ["Java", "Spring Boot"], "project": "Payment Gateway", "status": "Completed"}
+{"employee_id": 3, "name": "Sophia", "department": "Data Science", "skills": ["PyTorch", "LangChain"], "project": "LLM Research", "status": "Active"}
+{"employee_id": 4, "name": "David", "department": "HR", "skills": ["Recruitment", "Payroll"], "project": "Hiring Drive", "status": "Planning"}
+{"employee_id": 5, "name": "Lisa", "department": "Marketing", "skills": ["SEO", "Analytics"], "project": "Product Launch", "status": "Completed"}

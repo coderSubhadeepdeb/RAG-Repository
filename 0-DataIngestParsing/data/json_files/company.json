@@ -1,0 +1,90 @@
+{
+  "company": {
+    "name": "TechNova",
+    "founded": 2018,
+    "headquarters": {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "departments": [
+      {
+        "name": "Engineering",
+        "manager": {
+          "id": 101,
+          "name": "Alice"
+        },
+        "employees": [
+          {
+            "id": 1,
+            "name": "John",
+            "skills": [
+              "Python",
+              "Docker",
+              "Kubernetes"
+            ],
+            "projects": [
+              {
+                "project_id": "P101",
+                "name": "RAG Chatbot",
+                "status": "Active",
+                "tasks": [
+                  {
+                    "task": "Build Retriever",
+                    "completed": true
+                  },
+                  {
+                    "task": "Optimize Embeddings",
+                    "completed": false
+                  }
+                ]
+              },
+              {
+                "project_id": "P102",
+                "name": "Document Parser",
+                "status": "Completed"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Emma",
+            "skills": [
+              "Java",
+              "Spring Boot"
+            ],
+            "projects": [
+              {
+                "project_id": "P103",
+                "name": "Payment Gateway"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Data Science",
+        "manager": {
+          "id": 201,
+          "name": "Bob"
+        },
+        "employees": [
+          {
+            "id": 3,
+            "name": "Sophia",
+            "models": [
+              {
+                "type": "LLM",
+                "framework": "LangChain",
+                "vector_db": "FAISS"
+              },
+              {
+                "type": "CNN",
+                "framework": "PyTorch"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
