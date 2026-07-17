@@ -13,3 +13,8 @@ python-docx
 docx2txt
 unstructured
 jq
+matplotlib
+pandas
+
+#Embeddings
+langchain-huggingface
